@@ -1,0 +1,16 @@
+Daniel Indra Octo Pardomuan Sebagai Scrum Master (4 Desember 2019)
+
+Hari 1 (4 Desember):
+
+1. Victor Purba :
+	- Yang Dikerjakan : Membuat Respositori Server
+	- Masalah : Tidak Ada
+
+2. Sebastian :
+	- Yang Dikerjakan : Menambahkan NIM Anggota
+	- Masalah : -
+
+3. Pandu :
+	- Yang Dikerjakan : Memambahkan Deskripsi 	  Produk
+	- Masalah : -
+
