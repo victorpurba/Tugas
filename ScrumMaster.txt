@@ -8,9 +8,28 @@ Hari 1 (4 Desember):
 
 2. Sebastian :
 	- Yang Dikerjakan : Menambahkan NIM Anggota
+	- Masalah : Tidak Ada
+
+3. Pandu :
+	- Yang Dikerjakan : Memambahkan Deskripsi Produk
+	- Masalah : -
+
+Victor Purba Sebagai Scrum Master (5 Desember 2019)
+
+Hari 2 (5 Desember):
+
+1. Daniel Indra Octo Pardomuan :
+	- Kemarin Ngerjain : Membuat File ScrumMaster dan Pembagian Tugas
+	- Yang Dikerjakan : menambahkan deskripsi dan memperbaiki tampilan
+	- Masalah : -
+
+2. Sebastian :
+	- Kemarin Ngerjain : Menambahkan NIM Anggota
+	- Yang Dikerjakan : Menambahkan Kelebihan dan Kelemahan
 	- Masalah : -
 
 3. Pandu :
-	- Yang Dikerjakan : Memambahkan Deskripsi 	  Produk
+	- Kemarin Ngerjain : -
+	- Yang Dikerjakan : Menambahkan Fitur-Fitur yang tersedia
 	- Masalah : -
 
